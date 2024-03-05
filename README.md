@@ -44,7 +44,7 @@ O projeto FiltrarProdutos é desenvolvido utilizando as seguintes tecnologias:
 #### Veja!
 
  <a href="https://filtraprodutos.fly.dev/">
-    <img src="https://img.shields.io/badge/FUNCIONALIDADE%20-dargreeen" alt="Site">
+    <img src="https://img.shields.io/badge/FUNCIONALIDADE%20-darkgreeen" alt="Site">
  </a>
 
 
